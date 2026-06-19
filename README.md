@@ -94,7 +94,3 @@ The demo driver (`main.c`) exercises each data structure — inserting, traversi
 
 **Hari Prasad Dhaker**
 [LinkedIn](https://www.linkedin.com/in/hariprasad-dhaker-16a1a0259) · [GitHub](https://github.com/HariDhaker)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
